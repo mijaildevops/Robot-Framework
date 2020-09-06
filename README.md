@@ -1,4 +1,5 @@
 # Robot-Framework
+pip install -r requirements.txt
 1. robotframework 3.2.2
 2. robotframework-selenium2library 3.0.0
 3. wxPython 4.1.0
