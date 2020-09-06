@@ -9,5 +9,5 @@ ${BROWSER}        Chrome
 Test-01
     open browser    ${URL}    ${browser}
     Input Text    name:Email    Test-Super
-    Input Text    name:Password    111111111111111111111111111111111111
+    Input Text    name:Password    Password-For-Test
     close browser
