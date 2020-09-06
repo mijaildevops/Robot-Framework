@@ -9,9 +9,13 @@ pip install -r requirements.txt
 2. http://python.org/downloads/release/python-376/
 # chrome-driver (Versión 85)
 1. http://chromedriver.chromium.org/downloads
+2. copy exe in C:\Users\Test\AppData\Local\Programs\Python\Python37\
 # Fix error Install
 Error in atexit._run_exitfuncs:
 1. pip install -U https://github.com/robotframework/RIDE/archive/master.zip
 # Run Test
 1. in Folder Files run
 2. robot Test-Suite.robot
+# Note
+- Recuerde agregar python a una variable de entorno (Windowns)
+- C:\Users\Test\AppData\Local\Programs\Python\Python37\Scripts
