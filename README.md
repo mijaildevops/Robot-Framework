@@ -1,4 +1,5 @@
 # Robot-Framework
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 1. robotframework 3.2.2
 2. robotframework-selenium2library 3.0.0
