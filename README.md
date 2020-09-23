@@ -9,6 +9,8 @@ pip install -r requirements.txt
 2. http://python.org/downloads/release/python-376/
 # chrome-driver (Versión 85)
 1. http://chromedriver.chromium.org/downloads
+1.1 Linux https://chromedriver.storage.googleapis.com/85.0.4183.87/chromedriver_linux64.zip
+1.2 Win https://chromedriver.storage.googleapis.com/85.0.4183.87/chromedriver_win32.zip
 2. copy exe in C:\Users\Test\AppData\Local\Programs\Python\Python37\
 # Fix error Install
 Error in atexit._run_exitfuncs:
